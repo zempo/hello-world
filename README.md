@@ -76,7 +76,7 @@ This section discusses some tips and best practices for working with Git.
 
 *OVERVIEW*
 
-Strife [Join the Repo Team](#-step-1:-become-a-member-of-the-repository-team) and connection.
+Strife [Join the Repo Team](#step-1-become-a-member-of-the-repository-team) and connection.
 
 2. [Fork the Repo](#step+2:+fork+the+repository).
 
@@ -100,7 +100,7 @@ Strife [Join the Repo Team](#-step-1:-become-a-member-of-the-repository-team) an
 
 ---
 
-#### Step 1: Become a member of the repository Team
+#### Step 1 Become a member of the repository Team
 
 In the `hfla-site` slack channel, send your GitHub name to the project manager (or on the slack channel thread) and we'll add you as a member to the GitHub repository Team.
 
