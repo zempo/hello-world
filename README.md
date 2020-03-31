@@ -76,13 +76,13 @@ This section discusses some tips and best practices for working with Git.
 
 *OVERVIEW*
 
-1. [Join the Repo Team](#step-1:-become-a-member-of-the-repository-team)
+1. [Join the Repo Team](#step+1:+become+a+member+of+the+repository+team)
 
-2. [Fork the Repo](#step-2:-fork-the-repository)
+2. [Fork the Repo](#step+2:+fork+the+repository)
 
-3. [Clone to your local machine](#step-3:-clone-your-online-repository-to-your-local-computer)
+3. [Clone to your local machine](#step+3:+clone+your+online+repository+to+your+local+computer)
 
-4. [Switch to new issue branch](#step-4:-change-to-a-new-branch)
+4. [Switch to new issue branch](#step+4:+change+to+a+new+branch)
 
 **Before you make a pull request!**
 
