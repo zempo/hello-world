@@ -76,7 +76,7 @@ This section discusses some tips and best practices for working with Git.
 
 *OVERVIEW*
 
-1. [Join the Repo Team](#step+1:+become+a+member+of+the+repository+team).
+1. [Join the Repo Team](#-step+1:+become+a+member+of+the+repository+team).
 
 2. [Fork the Repo](#step+2:+fork+the+repository).
 
